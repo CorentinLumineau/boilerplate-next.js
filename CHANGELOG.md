@@ -1,3 +1,10 @@
+# 1.0.0 (2024-09-04)
+
+
+### Features
+
+* update env ([f2d1965](https://github.com/CorentinLumineau/boilerplate-next.js/commit/f2d19651f883a44908b756f718299aac859311be))
+
 ## [3.55.3](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.55.2...v3.55.3) (2024-08-21)
 
 

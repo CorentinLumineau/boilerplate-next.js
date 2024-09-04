@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CorentinLumineau/boilerplate-next.js/compare/v1.0.0...v1.1.0) (2024-09-04)
+
+
+### Features
+
+* update env var ([31b2270](https://github.com/CorentinLumineau/boilerplate-next.js/commit/31b22706286a154d0a388161fc75bca0438c032c))
+
 # 1.0.0 (2024-09-04)
 
 

@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CorentinLumineau/boilerplate-next.js/compare/v1.1.0...v1.2.0) (2024-09-04)
+
+
+### Features
+
+* update checkly config ([07aa417](https://github.com/CorentinLumineau/boilerplate-next.js/commit/07aa41736755845e16a8603022c24c5d7b8233d8))
+
 # [1.1.0](https://github.com/CorentinLumineau/boilerplate-next.js/compare/v1.0.0...v1.1.0) (2024-09-04)
 
 
